@@ -6,5 +6,6 @@ Brodies HomeLab Setup
   - [ ] use shell scripts in at least one container
 - [ ] build a multi-container deployment
   - [ ] implement argocd as gitops
-  - [ ] setup prometheus for logging which can be accessed via a persistentvolume located on one of the servers
+  - [ ] setup loki for logging which can be accessed via a persistentvolume located on one of the servers
   - [ ] build an htmx/go application that uses multiple paths in this deployment
+  - [ ] use prometheus for metrics on the new htmx site
